@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "747504073024",
+    "firebase_url": "https://online-election-proj-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "online-election-proj",
+    "storage_bucket": "online-election-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747504073024:android:ed9eb0884f020fa00862a5",
+        "android_client_info": {
+          "package_name": "com.diffy.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747504073024-gqdrsbte3do7k219j8db1ei3v0cop9f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs2F5eJX5beCa3W-ReplIoOXn2NYawTNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747504073024-gqdrsbte3do7k219j8db1ei3v0cop9f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
